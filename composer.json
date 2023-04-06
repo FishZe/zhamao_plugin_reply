@@ -1,0 +1,12 @@
+{
+    "name": "fishze/reply",
+    "description": "炸毛框架生成的插件 fishze/reply",
+    "extra": {
+        "zm-plugin-version": "1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "fishze\\": "src/"
+        }
+    }
+}
